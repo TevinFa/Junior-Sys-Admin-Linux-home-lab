@@ -99,6 +99,22 @@ NBA players added to NBA group.
 
 MLB players added to MLB group. 
 
+<img width="734" height="144" alt="image" src="https://github.com/user-attachments/assets/83df2bcc-91c3-453d-988b-b05277e35244" />
+
+
+<img width="588" height="18" alt="image" src="https://github.com/user-attachments/assets/601a88ea-c7e7-4954-9c14-9f0c509640b3" />
+
+
+NFL players added to NFL group.
+
+<img width="716" height="104" alt="image" src="https://github.com/user-attachments/assets/39e102c0-8fbd-4292-bb87-58b268164176" />
+
+<img width="596" height="18" alt="image" src="https://github.com/user-attachments/assets/929d5b21-0e81-4f83-8734-89062add479e" />
+
+Step 7: Install Apache web server for IT Support Portal.
+
+
+
 
 
 
