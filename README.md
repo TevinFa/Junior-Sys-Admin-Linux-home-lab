@@ -75,6 +75,34 @@ Run the script to create the users.
 <img width="567" height="339" alt="image" src="https://github.com/user-attachments/assets/1bcb7167-8280-4ce7-a556-eb905d4da098" />
 
 
+Step 6: Create Groups and add users to the groups. 
+
+<img width="173" height="26" alt="image" src="https://github.com/user-attachments/assets/286fc424-9d38-486f-8234-db50d9fd8a63" />
+
+<img width="167" height="42" alt="image" src="https://github.com/user-attachments/assets/aaaef576-bb47-4f83-8522-d2d297098d11" />
+
+
+Check the etc/group file to see if the groups were added. 
+
+
+<img width="332" height="31" alt="image" src="https://github.com/user-attachments/assets/5bb7e046-d3ab-4ddd-8a9a-9691b72d6148" />
+
+
+<img width="365" height="64" alt="image" src="https://github.com/user-attachments/assets/482adf1e-2828-4bfc-b2b7-2d378d3ce8d4" />
+
+NBA players added to NBA group. 
+
+<img width="737" height="344" alt="image" src="https://github.com/user-attachments/assets/9037527b-feee-4893-b38b-ed8446a10b8e" />
+
+
+<img width="595" height="26" alt="image" src="https://github.com/user-attachments/assets/80d14a2d-5d43-4f1a-8738-effb6b7c2ccc" />
+
+MLB players added to MLB group. 
+
+
+
+
+
 
 
 
