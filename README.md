@@ -73,6 +73,25 @@ Step 8: Install Apache2 web server and confirm successful installation by naviga
 
 <img width="981" height="738" alt="image" src="https://github.com/user-attachments/assets/87ea122e-c7ac-4474-85b7-803b7732a058" />
 
+Step 9: Install SSH for remote access
+
+<img width="523" height="25" alt="image" src="https://github.com/user-attachments/assets/746e51c1-be21-4c03-b8db-8e3105fef399" />
+
+Step 10: Confirm SSH is installed and I'm able to remote into the Linux vm using Putty on my host Windows machine. 
+
+<img width="470" height="431" alt="image" src="https://github.com/user-attachments/assets/14bf9c27-8796-488d-9312-d2de2fd067e4" />
+
+<img width="672" height="206" alt="image" src="https://github.com/user-attachments/assets/4fcf70a8-7b06-4b01-8e44-9c33c613e84d" />
+
+<img width="417" height="105" alt="image" src="https://github.com/user-attachments/assets/c9166221-4e93-4f86-8afb-0380cd3ddb0d" />
+
+Step 11: Install htop monitoring tool
+
+<img width="490" height="29" alt="image" src="https://github.com/user-attachments/assets/20b2ec14-e80d-4f7c-98a4-0658c09ddbe0" />
+
+
+
+
 
 
 
